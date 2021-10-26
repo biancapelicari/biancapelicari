@@ -1,6 +1,6 @@
 ### Olá! Sou a Bianca Peliçari. 👋
 
-- 🔭 Atualmente trabalo com front-end
+- 🔭 Atualmente trabalho com front-end
 - 🌱 Estou estudando sobre JS
 - 👯 Trabalho em projetos pessoais
 - 😄 Pronomes: Ela/Dela
